@@ -1,0 +1,1 @@
+start-process your.exe -NoNewWindow
